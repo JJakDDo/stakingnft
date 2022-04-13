@@ -1,0 +1,19 @@
+{
+  "name": "stakingnft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJakDDo/stakingnft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJakDDo/stakingnft/issues"
+  },
+  "homepage": "https://github.com/JJakDDo/stakingnft#readme"
+}
