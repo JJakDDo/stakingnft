@@ -59,10 +59,6 @@ contract Collection is ERC721Enumerable, ERC721URIStorage, Ownable{
     return currentTokenId;
   }
 
-  function getTotalMinted() external view returns(uint256) {
-    return _tokenId.current();
-  }
-
   function setMaxSupply(uint256 _newSupply) external onlyOwner {
     maxSupply = _newSupply;
   }
